@@ -4,4 +4,9 @@
     <pattern>Hi</pattern>
     <template>Hello, what I can help you with today?</template>
   </category>
+
+  <category>
+    <pattern>Academy</pattern>
+    <template>Are you an existing user?</template>
+  </category>
 </aiml>
