@@ -9,4 +9,8 @@
     <pattern>Academy</pattern>
     <template>Are you an existing user?</template>
   </category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
 </aiml>
