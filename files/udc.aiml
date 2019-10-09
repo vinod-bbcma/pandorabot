@@ -9,8 +9,16 @@
     <pattern>Academy</pattern>
     <template>Are you an existing user?</template>
   </category>
-<category>
-    <pattern></pattern>
-    <template></template>
-</category>
+  
+  <category>
+    <pattern>Mobile Academy</pattern>
+ <template>Are you an existing user?
+ 
+
+<link>
+    <text>Check this</text>
+    <url>www.google.com</url>
+</link>
+</template>
+ </category>
 </aiml>
