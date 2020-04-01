@@ -21,4 +21,8 @@
 </link>
 </template>
  </category>
+<category>
+    <pattern>What is Covid </pattern>
+    <template>https://en.wikipedia.org/wiki/Coronavirus</template>
+</category>
 </aiml>
